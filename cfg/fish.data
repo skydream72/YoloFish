@@ -1,6 +1,6 @@
 classes= 7
-train  = /workspace/darknet/data/fish/train.txt
-valid  = /workspace/darknet/data/fish/Fish_test.txt
+train  = /workspace/YoloFish/data/fish/Fish_train.txt
+valid  = /workspace/YoloFish/data/fish/Fish_test.txt
 names = data/fish.names
 backup = backup
 
