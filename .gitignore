@@ -8,6 +8,7 @@ VOCdevkit/VOCFish/Annotations/*.xml
 
 darknet19_448.conv.23
 
-yolo.weights
+*.weights
 
 backup
+
