@@ -4,10 +4,10 @@ Start realtime 21 object detection
 
 
 Start realtime fish detection 
-./darknet detector demo -c 1 cfg/fish.data cfg/yolo-fish.2.0.cfg yolo-fish_final.weights
+./darknet detector demo -c 1 data/fish/fish.data data/fish/yolo-fish.2.0.cfg yolo-fish_final.weights
 
-train with darknet 
-./darknet detector train cfg/voc.data cfg/yolo-voc.cfg darknet19_448.conv.23
+train fish dataset with darknet 
+./darknet detector train data/fish/fish.data data/fish/yolo-fish.2.0.cfg darknet19_448.conv.23
 
 
 

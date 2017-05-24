@@ -4,11 +4,9 @@
 
 *.jpg
 
-VOCdevkit/VOCFish/Annotations/*.xml
-
 darknet19_448.conv.23
 
 *.weights
 
-backup
+data/fish/VOCdevkit/VOCFish/backup
 

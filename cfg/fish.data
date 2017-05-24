@@ -1,6 +1,0 @@
-classes= 7
-train  = /workspace/YoloFish/data/fish/Fish_train.txt
-valid  = /workspace/YoloFish/data/fish/Fish_test.txt
-names = data/fish.names
-backup = backup
-
