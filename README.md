@@ -7,7 +7,7 @@ Start realtime fish detection
 ./darknet detector demo -c 1 data/fish/fish.data data/fish/yolo-fish.2.0.cfg yolo-fish_final.weights
 
 train fish dataset with darknet 
-./darknet detector train data/fish/fish.data data/fish/yolo-fish.2.0.cfg darknet19_448.conv.23
+./darknet detector train data/fish/fish.data data/fish/yolo-fish-train.cfg darknet19_448.conv.23
 
 
 
