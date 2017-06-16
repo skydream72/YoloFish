@@ -2,8 +2,12 @@
 
 *.tgz
 
+*.tar
+
 data/fish/VOCdevkit/VOCFish/Ori/train
 
 darknet19_448.conv.23
 
 *.weights
+
+VOCdevkit

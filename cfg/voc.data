@@ -1,6 +1,6 @@
 classes= 20
-train  = /workspace/darknet/data/voc/train.txt
-valid  = /workspace/darknet/data/voc/2007_test.txt
+train  = /workspace/YoloFish/train.txt
+valid  = /workspace/YoloFish/2007_test.txt
 names = data/voc.names
 backup = backup
 
