@@ -9,9 +9,14 @@ Start realtime fish detection
 train fish dataset with darknet 
 ./darknet detector train data/fish/fish.data data/fish/yolo-fish-train.cfg darknet19_448.conv.23
 
+train hand dataset with darknet
+./darknet detector train data/hand/hand.data data/hand/yolo-hand-train.cfg darknet19_448.conv.23
 
 Start human detection
 ./darknet detector demo -c 1 data/human/human.data data/human/yolo-human-dector.cfg data/human/backup/yolo-human-train_34000.weights ~/V_20170619_153634_vHDR_Auto.mp4
+
+#In training mode, the 'opencv' FLAG must set to 0 in MakeFile
+#install sudo apt-get install libopencv-dev & python-opencv
 
 
 
