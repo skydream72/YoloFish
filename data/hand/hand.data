@@ -1,0 +1,5 @@
+classes= 1
+train  = data/hand/Hand_train.txt
+valid  = data/hand/Hand_test.txt
+names = data/hand/hand.names
+backup = data/hand/backup
