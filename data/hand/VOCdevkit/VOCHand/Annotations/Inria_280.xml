@@ -1,0 +1,65 @@
+<?xml version="1.0" ?>
+<annotation>
+  <folder>training_data</folder>
+  <filename>Inria_280.jpg</filename>
+  <source>
+    <database>The oxford hand Database</database>
+    <annotation/>
+  </source>
+  <size>
+    <width>586</width>
+    <height>557</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>hand photo</name>
+    <difficult>0</difficult>
+    <bnd_box>
+      <xmin>251.9608597</xmin>
+      <xmax>286.730896572</xmax>
+      <ymin>290.817079569</ymin>
+      <ymax>322.700894287</ymax>
+    </bnd_box>
+  </object>
+  <object>
+    <name>hand photo</name>
+    <difficult>0</difficult>
+    <bnd_box>
+      <xmin>14.2976426159</xmin>
+      <xmax>44.9873036206</xmax>
+      <ymin>239.705019172</ymin>
+      <ymax>268.237791285</ymax>
+    </bnd_box>
+  </object>
+  <object>
+    <name>hand photo</name>
+    <difficult>0</difficult>
+    <bnd_box>
+      <xmin>135.216472621</xmin>
+      <xmax>160.358796196</xmax>
+      <ymin>145.45030874</ymin>
+      <ymax>168.63465858</ymax>
+    </bnd_box>
+  </object>
+  <object>
+    <name>hand photo</name>
+    <difficult>0</difficult>
+    <bnd_box>
+      <xmin>254.596106809</xmin>
+      <xmax>264.142244446</xmax>
+      <ymin>55.9476690246</ymin>
+      <ymax>74.2908930669</ymax>
+    </bnd_box>
+  </object>
+  <object>
+    <name>hand photo</name>
+    <difficult>0</difficult>
+    <bnd_box>
+      <xmin>452.290878279</xmin>
+      <xmax>470.241379785</xmax>
+      <ymin>37.7451841374</ymin>
+      <ymax>55.178018477</ymax>
+    </bnd_box>
+  </object>
+</annotation>

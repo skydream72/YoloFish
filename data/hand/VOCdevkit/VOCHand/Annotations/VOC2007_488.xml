@@ -1,0 +1,75 @@
+<?xml version="1.0" ?>
+<annotation>
+  <folder>test_data</folder>
+  <filename>VOC2007_488.jpg</filename>
+  <source>
+    <database>The oxford hand Database</database>
+    <annotation/>
+  </source>
+  <size>
+    <width>500</width>
+    <height>375</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>hand photo</name>
+    <difficult>0</difficult>
+    <bnd_box>
+      <xmin>92.0634498756</xmin>
+      <xmax>125.065582383</xmax>
+      <ymin>234.198397961</ymin>
+      <ymax>264.350621646</ymax>
+    </bnd_box>
+  </object>
+  <object>
+    <name>hand photo</name>
+    <difficult>0</difficult>
+    <bnd_box>
+      <xmin>151.047417824</xmin>
+      <xmax>180.597743467</xmax>
+      <ymin>220.151116836</ymin>
+      <ymax>250.211628262</ymax>
+    </bnd_box>
+  </object>
+  <object>
+    <name>hand photo</name>
+    <difficult>0</difficult>
+    <bnd_box>
+      <xmin>217.794669665</xmin>
+      <xmax>250.544040013</xmax>
+      <ymin>109.593758283</ymin>
+      <ymax>147.125195965</ymax>
+    </bnd_box>
+  </object>
+  <object>
+    <name>hand photo</name>
+    <difficult>0</difficult>
+    <bnd_box>
+      <xmin>231.012919162</xmin>
+      <xmax>264.341919548</xmax>
+      <ymin>257.784233333</ymin>
+      <ymax>301.630799347</ymax>
+    </bnd_box>
+  </object>
+  <object>
+    <name>hand photo</name>
+    <difficult>0</difficult>
+    <bnd_box>
+      <xmin>293.453276014</xmin>
+      <xmax>340.611240115</xmax>
+      <ymin>318.403888474</ymin>
+      <ymax>362.334673617</ymax>
+    </bnd_box>
+  </object>
+  <object>
+    <name>hand photo</name>
+    <difficult>0</difficult>
+    <bnd_box>
+      <xmin>338.218011964</xmin>
+      <xmax>368.427149327</xmax>
+      <ymin>185.102996542</ymin>
+      <ymax>214.589813915</ymax>
+    </bnd_box>
+  </object>
+</annotation>

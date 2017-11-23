@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<annotation>
+  <folder>training_data</folder>
+  <filename>Poselet_34.jpg</filename>
+  <source>
+    <database>The oxford hand Database</database>
+    <annotation/>
+  </source>
+  <size>
+    <width>800</width>
+    <height>600</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>hand photo</name>
+    <difficult>0</difficult>
+    <bnd_box>
+      <xmin>297.33453069</xmin>
+      <xmax>309.400236335</xmax>
+      <ymin>317.11075591</ymin>
+      <ymax>325.065714679</ymax>
+    </bnd_box>
+  </object>
+  <object>
+    <name>hand photo</name>
+    <difficult>0</difficult>
+    <bnd_box>
+      <xmin>450.704971627</xmin>
+      <xmax>472.875673534</xmax>
+      <ymin>237.374651275</ymin>
+      <ymax>260.684172254</ymax>
+    </bnd_box>
+  </object>
+  <object>
+    <name>hand photo</name>
+    <difficult>0</difficult>
+    <bnd_box>
+      <xmin>492.927583048</xmin>
+      <xmax>515.957721611</xmax>
+      <ymin>225.579794751</ymin>
+      <ymax>257.773146426</ymax>
+    </bnd_box>
+  </object>
+</annotation>

@@ -1,0 +1,95 @@
+<?xml version="1.0" ?>
+<annotation>
+  <folder>validation_data</folder>
+  <filename>Movie_4weds_70.jpg</filename>
+  <source>
+    <database>The oxford hand Database</database>
+    <annotation/>
+  </source>
+  <size>
+    <width>720</width>
+    <height>576</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>hand photo</name>
+    <difficult>0</difficult>
+    <bnd_box>
+      <xmin>185.202533548</xmin>
+      <xmax>202.894240645</xmax>
+      <ymin>250.24340886</ymin>
+      <ymax>278.133214516</ymax>
+    </bnd_box>
+  </object>
+  <object>
+    <name>hand photo</name>
+    <difficult>0</difficult>
+    <bnd_box>
+      <xmin>264.293254571</xmin>
+      <xmax>296.061584138</xmax>
+      <ymin>321.645957663</ymin>
+      <ymax>354.470925453</ymax>
+    </bnd_box>
+  </object>
+  <object>
+    <name>hand photo</name>
+    <difficult>0</difficult>
+    <bnd_box>
+      <xmin>300.505214353</xmin>
+      <xmax>323.720592099</xmax>
+      <ymin>314.477257643</ymin>
+      <ymax>338.263002097</ymax>
+    </bnd_box>
+  </object>
+  <object>
+    <name>hand photo</name>
+    <difficult>0</difficult>
+    <bnd_box>
+      <xmin>351.885126242</xmin>
+      <xmax>377.501970532</xmax>
+      <ymin>249.897837799</ymin>
+      <ymax>278.478785578</ymax>
+    </bnd_box>
+  </object>
+  <object>
+    <name>hand photo</name>
+    <difficult>0</difficult>
+    <bnd_box>
+      <xmin>387.472217453</xmin>
+      <xmax>424.495524483</xmax>
+      <ymin>347.724405014</ymin>
+      <ymax>383.561309272</ymax>
+    </bnd_box>
+  </object>
+  <object>
+    <name>hand photo</name>
+    <difficult>0</difficult>
+    <bnd_box>
+      <xmin>475.116059964</xmin>
+      <xmax>509.109746487</xmax>
+      <ymin>181.560742849</ymin>
+      <ymax>216.841854554</ymax>
+    </bnd_box>
+  </object>
+  <object>
+    <name>hand photo</name>
+    <difficult>0</difficult>
+    <bnd_box>
+      <xmin>493.463055769</xmin>
+      <xmax>517.859524877</xmax>
+      <ymin>238.732337596</ymin>
+      <ymax>262.527402663</ymax>
+    </bnd_box>
+  </object>
+  <object>
+    <name>hand photo</name>
+    <difficult>0</difficult>
+    <bnd_box>
+      <xmin>211.050577552</xmin>
+      <xmax>238.336519222</xmax>
+      <ymin>252.525382836</ymin>
+      <ymax>280.526565216</ymax>
+    </bnd_box>
+  </object>
+</annotation>

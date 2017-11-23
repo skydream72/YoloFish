@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<annotation>
+  <folder>training_data</folder>
+  <filename>Skin_236.jpg</filename>
+  <source>
+    <database>The oxford hand Database</database>
+    <annotation/>
+  </source>
+  <size>
+    <width>294</width>
+    <height>447</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>hand photo</name>
+    <difficult>0</difficult>
+    <bnd_box>
+      <xmin>42.1612903226</xmin>
+      <xmax>71.9677419355</xmax>
+      <ymin>205.188596491</ymin>
+      <ymax>257.188596491</ymax>
+    </bnd_box>
+  </object>
+  <object>
+    <name>hand photo</name>
+    <difficult>0</difficult>
+    <bnd_box>
+      <xmin>142.484812074</xmin>
+      <xmax>221.61196212</xmax>
+      <ymin>202.000681695</ymin>
+      <ymax>274.75370427</ymax>
+    </bnd_box>
+  </object>
+</annotation>

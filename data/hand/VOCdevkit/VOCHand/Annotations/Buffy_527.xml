@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<annotation>
+  <folder>training_data</folder>
+  <filename>Buffy_527.jpg</filename>
+  <source>
+    <database>The oxford hand Database</database>
+    <annotation/>
+  </source>
+  <size>
+    <width>577</width>
+    <height>577</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>hand photo</name>
+    <difficult>0</difficult>
+    <bnd_box>
+      <xmin>285.689961449</xmin>
+      <xmax>337.73860998</xmax>
+      <ymin>367.919306075</ymin>
+      <ymax>405.009265353</ymax>
+    </bnd_box>
+  </object>
+  <object>
+    <name>hand photo</name>
+    <difficult>0</difficult>
+    <bnd_box>
+      <xmin>324.124859402</xmin>
+      <xmax>368.946569169</xmax>
+      <ymin>371.522167964</ymin>
+      <ymax>419.977832036</ymax>
+    </bnd_box>
+  </object>
+</annotation>

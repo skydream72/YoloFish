@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<annotation>
+  <folder>training_data</folder>
+  <filename>VOC2010_1222.jpg</filename>
+  <source>
+    <database>The oxford hand Database</database>
+    <annotation/>
+  </source>
+  <size>
+    <width>500</width>
+    <height>375</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>hand photo</name>
+    <difficult>0</difficult>
+    <bnd_box>
+      <xmin>173.644562745</xmin>
+      <xmax>187.475252923</xmax>
+      <ymin>240.546497616</ymin>
+      <ymax>265.623093027</ymax>
+    </bnd_box>
+  </object>
+  <object>
+    <name>hand photo</name>
+    <difficult>0</difficult>
+    <bnd_box>
+      <xmin>241.53093898</xmin>
+      <xmax>269.270904338</xmax>
+      <ymin>262.79265358</ymin>
+      <ymax>297.201498467</ymax>
+    </bnd_box>
+  </object>
+</annotation>

@@ -10,7 +10,9 @@ darknet19_448.conv.23
 
 *.weights
 
-VOCdevkit
+*.jpg
+
+*.png
 
 *.o
 

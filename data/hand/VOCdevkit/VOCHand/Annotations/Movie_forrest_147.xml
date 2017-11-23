@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<annotation>
+  <folder>validation_data</folder>
+  <filename>Movie_forrest_147.jpg</filename>
+  <source>
+    <database>The oxford hand Database</database>
+    <annotation/>
+  </source>
+  <size>
+    <width>720</width>
+    <height>390</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>hand photo</name>
+    <difficult>0</difficult>
+    <bnd_box>
+      <xmin>79.7319030419</xmin>
+      <xmax>111.590677603</xmax>
+      <ymin>257.113033655</ymin>
+      <ymax>295.33177154</ymax>
+    </bnd_box>
+  </object>
+  <object>
+    <name>hand photo</name>
+    <difficult>0</difficult>
+    <bnd_box>
+      <xmin>222.361907884</xmin>
+      <xmax>256.057446955</xmax>
+      <ymin>177.48809368</ymin>
+      <ymax>213.51190632</ymax>
+    </bnd_box>
+  </object>
+</annotation>

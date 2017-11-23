@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<annotation>
+  <folder>validation_data</folder>
+  <filename>Movie_apollo13_20.jpg</filename>
+  <source>
+    <database>The oxford hand Database</database>
+    <annotation/>
+  </source>
+  <size>
+    <width>720</width>
+    <height>390</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>hand photo</name>
+    <difficult>0</difficult>
+    <bnd_box>
+      <xmin>215.93433702</xmin>
+      <xmax>258.614050077</xmax>
+      <ymin>234.554215063</ymin>
+      <ymax>283.06916156</ymax>
+    </bnd_box>
+  </object>
+  <object>
+    <name>hand photo</name>
+    <difficult>0</difficult>
+    <bnd_box>
+      <xmin>297.655985877</xmin>
+      <xmax>326.569820574</xmax>
+      <ymin>223.746937412</ymin>
+      <ymax>252.723841809</ymax>
+    </bnd_box>
+  </object>
+  <object>
+    <name>hand photo</name>
+    <difficult>0</difficult>
+    <bnd_box>
+      <xmin>317.950290939</xmin>
+      <xmax>342.404547771</xmax>
+      <ymin>227.87237338</ymin>
+      <ymax>250.497756491</ymax>
+    </bnd_box>
+  </object>
+</annotation>

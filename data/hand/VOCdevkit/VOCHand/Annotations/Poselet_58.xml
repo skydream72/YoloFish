@@ -1,0 +1,85 @@
+<?xml version="1.0" ?>
+<annotation>
+  <folder>training_data</folder>
+  <filename>Poselet_58.jpg</filename>
+  <source>
+    <database>The oxford hand Database</database>
+    <annotation/>
+  </source>
+  <size>
+    <width>827</width>
+    <height>1024</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>hand photo</name>
+    <difficult>0</difficult>
+    <bnd_box>
+      <xmin>235.158598556</xmin>
+      <xmax>308.282261659</xmax>
+      <ymin>189.726661203</ymin>
+      <ymax>258.018436836</ymax>
+    </bnd_box>
+  </object>
+  <object>
+    <name>hand photo</name>
+    <difficult>0</difficult>
+    <bnd_box>
+      <xmin>428.332931086</xmin>
+      <xmax>477.476208699</xmax>
+      <ymin>99.8388301523</ymin>
+      <ymax>150.46835939</ymax>
+    </bnd_box>
+  </object>
+  <object>
+    <name>hand photo</name>
+    <difficult>0</difficult>
+    <bnd_box>
+      <xmin>342.88606148</xmin>
+      <xmax>373.216985114</xmax>
+      <ymin>488.375900034</ymin>
+      <ymax>518.218871208</ymax>
+    </bnd_box>
+  </object>
+  <object>
+    <name>hand photo</name>
+    <difficult>0</difficult>
+    <bnd_box>
+      <xmin>397.461746754</xmin>
+      <xmax>419.422661848</xmax>
+      <ymin>451.539562205</ymin>
+      <ymax>493.146712305</ymax>
+    </bnd_box>
+  </object>
+  <object>
+    <name>hand photo</name>
+    <difficult>0</difficult>
+    <bnd_box>
+      <xmin>650.194959112</xmin>
+      <xmax>669.114180673</xmax>
+      <ymin>404.552597918</ymin>
+      <ymax>433.048709272</ymax>
+    </bnd_box>
+  </object>
+  <object>
+    <name>hand photo</name>
+    <difficult>0</difficult>
+    <bnd_box>
+      <xmin>725.639766362</xmin>
+      <xmax>747.064534714</xmax>
+      <ymin>452.996887123</ymin>
+      <ymax>471.610956015</ymax>
+    </bnd_box>
+  </object>
+  <object>
+    <name>hand photo</name>
+    <difficult>0</difficult>
+    <bnd_box>
+      <xmin>746.286052007</xmin>
+      <xmax>768.65749638</xmax>
+      <ymin>450.920052169</ymin>
+      <ymax>473.687790968</ymax>
+    </bnd_box>
+  </object>
+</annotation>

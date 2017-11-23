@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<annotation>
+  <folder>validation_data</folder>
+  <filename>Movie_4weds_83.jpg</filename>
+  <source>
+    <database>The oxford hand Database</database>
+    <annotation/>
+  </source>
+  <size>
+    <width>720</width>
+    <height>576</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>hand photo</name>
+    <difficult>0</difficult>
+    <bnd_box>
+      <xmin>353.303347078</xmin>
+      <xmax>390.277298083</xmax>
+      <ymin>457.322665286</ymin>
+      <ymax>498.378633415</ymax>
+    </bnd_box>
+  </object>
+  <object>
+    <name>hand photo</name>
+    <difficult>0</difficult>
+    <bnd_box>
+      <xmin>425.888906526</xmin>
+      <xmax>484.143351539</xmax>
+      <ymin>394.010272193</ymin>
+      <ymax>453.223494041</ymax>
+    </bnd_box>
+  </object>
+  <object>
+    <name>hand photo</name>
+    <difficult>0</difficult>
+    <bnd_box>
+      <xmin>202.458316695</xmin>
+      <xmax>237.251360724</xmax>
+      <ymin>465.888980732</ymin>
+      <ymax>499.16296732</ymax>
+    </bnd_box>
+  </object>
+</annotation>

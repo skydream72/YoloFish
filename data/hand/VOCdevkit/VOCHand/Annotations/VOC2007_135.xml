@@ -1,0 +1,85 @@
+<?xml version="1.0" ?>
+<annotation>
+  <folder>test_data</folder>
+  <filename>VOC2007_135.jpg</filename>
+  <source>
+    <database>The oxford hand Database</database>
+    <annotation/>
+  </source>
+  <size>
+    <width>500</width>
+    <height>375</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>hand photo</name>
+    <difficult>0</difficult>
+    <bnd_box>
+      <xmin>44.7096937238</xmin>
+      <xmax>57.4999836955</xmax>
+      <ymin>233.236090669</ymin>
+      <ymax>249.38155639</ymax>
+    </bnd_box>
+  </object>
+  <object>
+    <name>hand photo</name>
+    <difficult>0</difficult>
+    <bnd_box>
+      <xmin>92.388164784</xmin>
+      <xmax>113.8537707</xmax>
+      <ymin>213.458350027</ymin>
+      <ymax>236.071061737</ymax>
+    </bnd_box>
+  </object>
+  <object>
+    <name>hand photo</name>
+    <difficult>0</difficult>
+    <bnd_box>
+      <xmin>101.543063938</xmin>
+      <xmax>122.440807029</xmax>
+      <ymin>241.058646105</ymin>
+      <ymax>275.05573298</ymax>
+    </bnd_box>
+  </object>
+  <object>
+    <name>hand photo</name>
+    <difficult>0</difficult>
+    <bnd_box>
+      <xmin>118.011864565</xmin>
+      <xmax>135.81071608</xmax>
+      <ymin>347.263835324</ymin>
+      <ymax>374.732896702</ymax>
+    </bnd_box>
+  </object>
+  <object>
+    <name>hand photo</name>
+    <difficult>0</difficult>
+    <bnd_box>
+      <xmin>305.030268261</xmin>
+      <xmax>336.695538191</xmax>
+      <ymin>319.029473518</ymin>
+      <ymax>364.568565698</ymax>
+    </bnd_box>
+  </object>
+  <object>
+    <name>hand photo</name>
+    <difficult>0</difficult>
+    <bnd_box>
+      <xmin>116.387186123</xmin>
+      <xmax>147.112813877</xmax>
+      <ymin>202.512096837</ymin>
+      <ymax>235.987903163</ymax>
+    </bnd_box>
+  </object>
+  <object>
+    <name>hand photo</name>
+    <difficult>0</difficult>
+    <bnd_box>
+      <xmin>284.306387643</xmin>
+      <xmax>317.096838163</xmax>
+      <ymin>264.71107541</ymin>
+      <ymax>299.197421322</ymax>
+    </bnd_box>
+  </object>
+</annotation>

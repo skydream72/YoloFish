@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<annotation>
+  <folder>test_data</folder>
+  <filename>VOC2007_548.jpg</filename>
+  <source>
+    <database>The oxford hand Database</database>
+    <annotation/>
+  </source>
+  <size>
+    <width>500</width>
+    <height>333</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>hand photo</name>
+    <difficult>0</difficult>
+    <bnd_box>
+      <xmin>156.45361781</xmin>
+      <xmax>222.368962835</xmax>
+      <ymin>262.577428305</ymin>
+      <ymax>321.353944244</ymax>
+    </bnd_box>
+  </object>
+  <object>
+    <name>hand photo</name>
+    <difficult>0</difficult>
+    <bnd_box>
+      <xmin>126.526976983</xmin>
+      <xmax>170.037539146</xmax>
+      <ymin>213.892815598</ymin>
+      <ymax>256.862086362</ymax>
+    </bnd_box>
+  </object>
+</annotation>

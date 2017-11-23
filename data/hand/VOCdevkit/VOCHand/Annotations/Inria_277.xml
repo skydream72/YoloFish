@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<annotation>
+  <folder>training_data</folder>
+  <filename>Inria_277.jpg</filename>
+  <source>
+    <database>The oxford hand Database</database>
+    <annotation/>
+  </source>
+  <size>
+    <width>783</width>
+    <height>720</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>hand photo</name>
+    <difficult>0</difficult>
+    <bnd_box>
+      <xmin>582.914099611</xmin>
+      <xmax>648.013319743</xmax>
+      <ymin>303.227657959</ymin>
+      <ymax>360.125283218</ymax>
+    </bnd_box>
+  </object>
+  <object>
+    <name>hand photo</name>
+    <difficult>0</difficult>
+    <bnd_box>
+      <xmin>637.917812026</xmin>
+      <xmax>680.711220232</xmax>
+      <ymin>298.656006426</ymin>
+      <ymax>341.167522986</ymax>
+    </bnd_box>
+  </object>
+</annotation>

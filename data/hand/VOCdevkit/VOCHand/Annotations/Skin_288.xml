@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<annotation>
+  <folder>training_data</folder>
+  <filename>Skin_288.jpg</filename>
+  <source>
+    <database>The oxford hand Database</database>
+    <annotation/>
+  </source>
+  <size>
+    <width>363</width>
+    <height>281</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>hand photo</name>
+    <difficult>0</difficult>
+    <bnd_box>
+      <xmin>78.9646718461</xmin>
+      <xmax>96.8440839142</xmax>
+      <ymin>170.463657346</ymin>
+      <ymax>192.056810491</ymax>
+    </bnd_box>
+  </object>
+  <object>
+    <name>hand photo</name>
+    <difficult>0</difficult>
+    <bnd_box>
+      <xmin>175.295922931</xmin>
+      <xmax>197.068132368</xmax>
+      <ymin>260.849945697</ymin>
+      <ymax>282.430756058</ymax>
+    </bnd_box>
+  </object>
+  <object>
+    <name>hand photo</name>
+    <difficult>0</difficult>
+    <bnd_box>
+      <xmin>207.015043704</xmin>
+      <xmax>232.261453992</xmax>
+      <ymin>142.711537861</ymin>
+      <ymax>174.618871496</ymax>
+    </bnd_box>
+  </object>
+  <object>
+    <name>hand photo</name>
+    <difficult>0</difficult>
+    <bnd_box>
+      <xmin>117.546579562</xmin>
+      <xmax>136.884296014</xmax>
+      <ymin>222.077819783</ymin>
+      <ymax>239.039139281</ymax>
+    </bnd_box>
+  </object>
+</annotation>

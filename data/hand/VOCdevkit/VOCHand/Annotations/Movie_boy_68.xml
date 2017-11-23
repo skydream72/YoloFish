@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<annotation>
+  <folder>validation_data</folder>
+  <filename>Movie_boy_68.jpg</filename>
+  <source>
+    <database>The oxford hand Database</database>
+    <annotation/>
+  </source>
+  <size>
+    <width>720</width>
+    <height>390</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>hand photo</name>
+    <difficult>0</difficult>
+    <bnd_box>
+      <xmin>207.702167884</xmin>
+      <xmax>257.813961149</xmax>
+      <ymin>296.594284535</ymin>
+      <ymax>354.616754426</ymax>
+    </bnd_box>
+  </object>
+  <object>
+    <name>hand photo</name>
+    <difficult>0</difficult>
+    <bnd_box>
+      <xmin>283.173506747</xmin>
+      <xmax>325.568428737</xmax>
+      <ymin>223.523952184</ymin>
+      <ymax>270.674099764</ymax>
+    </bnd_box>
+  </object>
+</annotation>

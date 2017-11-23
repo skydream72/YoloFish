@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<annotation>
+  <folder>validation_data</folder>
+  <filename>Movie_forrest_97.jpg</filename>
+  <source>
+    <database>The oxford hand Database</database>
+    <annotation/>
+  </source>
+  <size>
+    <width>720</width>
+    <height>390</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>hand photo</name>
+    <difficult>0</difficult>
+    <bnd_box>
+      <xmin>145.124369049</xmin>
+      <xmax>172.6498245</xmax>
+      <ymin>275.596818505</ymin>
+      <ymax>303.438895781</ymax>
+    </bnd_box>
+  </object>
+  <object>
+    <name>hand photo</name>
+    <difficult>0</difficult>
+    <bnd_box>
+      <xmin>254.560280811</xmin>
+      <xmax>279.988106286</xmax>
+      <ymin>270.860122671</ymin>
+      <ymax>294.247020186</ymax>
+    </bnd_box>
+  </object>
+  <object>
+    <name>hand photo</name>
+    <difficult>0</difficult>
+    <bnd_box>
+      <xmin>291.601377219</xmin>
+      <xmax>304.237332458</xmax>
+      <ymin>227.870540506</ymin>
+      <ymax>244.801537416</ymax>
+    </bnd_box>
+  </object>
+  <object>
+    <name>hand photo</name>
+    <difficult>0</difficult>
+    <bnd_box>
+      <xmin>302.974038187</xmin>
+      <xmax>323.187252136</xmax>
+      <ymin>201.389082409</ymin>
+      <ymax>220.000527981</ymax>
+    </bnd_box>
+  </object>
+</annotation>
