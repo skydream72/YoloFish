@@ -16,17 +16,8 @@ darknet19_448.conv.23
 
 *.o
 
-obj/
+obj/*
 
-old/
-mnist/
-data/
-caffe/
-grasp/
-images/
-opencv/
-convnet/
-decaf/
-submission/
-cfg/
+backup/*
+
 darknet
