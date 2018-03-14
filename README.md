@@ -18,7 +18,8 @@ Start human detection
 #In training mode, the 'opencv' FLAG must set to 0 in MakeFile
 #install sudo apt-get install libopencv-dev & python-opencv
 
-
+Train coco 80 object dataset
+./darknet detector train data/sunevision/coco.data data/sunevision/yolo-coco-train.cfg darknet19_448.conv.23
 
 
 
