@@ -42,6 +42,7 @@ Detect coco 80 object dataset
 
 
 
+
 We train other dataset by using darknet
 
 Darknet is an open source neural network framework written in C and CUDA. It is fast, easy to install, and supports CPU and GPU computation.
