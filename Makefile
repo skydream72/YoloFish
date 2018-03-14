@@ -1,6 +1,6 @@
 GPU=1
 CUDNN=1
-OPENCV=0
+OPENCV=1
 OPENMP=0
 DEBUG=0
 
@@ -11,7 +11,7 @@ ARCH= -gencode arch=compute_30,code=sm_30 \
 #      -gencode arch=compute_20,code=[sm_20,sm_21] \ This one is deprecated?
 
 # This is what I use, uncomment if you know your arch and want to specify
-ARCH= -gencode arch=compute_52,code=compute_52
+ARCH= -gencode arch=compute_50,code=compute_50
 # ARCH= -gencode arch=compute_52,code=compute_52
 
 VPATH=./src/:./examples

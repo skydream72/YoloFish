@@ -1,0 +1,8 @@
+classes= 80
+train  = /mnt/DataStorage/SUNeVISION/dataset/coco/coco/trainvalno5k.txt
+#valid  = coco_testdev
+valid = /mnt/DataStorage/SUNeVISION/dataset/coco/coco/coco_val_5k.list
+names = data/coco.names
+backup = backup
+eval=coco
+
