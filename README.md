@@ -24,7 +24,8 @@ Train coco 80 object dataset
 Detect coco 80 object dataset
 ./darknet detector demo -c 1 data/sunevision/coco.data data/sunevision/yolo-coco-detect.cfg yolo-coco-train_50000.weights
 
-
+Train sunevision scissor object dataset
+./darknet detector train data/sunevision/sunevision.data data/sunevision/yolo-sunevision-train.cfg darknet19_448.conv.23
 
 
 
